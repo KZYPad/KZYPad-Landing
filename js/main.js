@@ -247,7 +247,7 @@ owl active
   })(jQuery);
 
   // CountDown Js
-  var deadline = "july 30 2021 11:59:00 GMT-0000";
+  var deadline = "sept 12 2021 11:59:00 GMT-0000";
   function time_remaining(endtime) {
     var t = Date.parse(endtime) - Date.parse(new Date());
     var seconds = Math.floor((t / 1000) % 60);
@@ -290,7 +290,7 @@ owl active
   run_clock("clockdiv", deadline);
 
   // CountDown Js
-  var deadline = "july 30 2021 11:59:00 GMT-0000";
+  var deadline = "sept 12 2021 11:59:00 GMT-0000";
   function time_remaining(endtime) {
     var t = Date.parse(endtime) - Date.parse(new Date());
     var seconds = Math.floor((t / 1000) % 60);
